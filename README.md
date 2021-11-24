@@ -9,4 +9,4 @@ Projeto de exemplo de UI usando Unity.
 ## Créditos
 - Fonte Acme por Juan Pablo del Peral, Huerta Tipográfica: https://fonts.google.com/specimen/Acme
 - Ícons Heart, Bacon, Bread e Rocket por EmojiOne: https://github.com/EmojiTwo/emojitwo
-- Sprites Blue Panel e Yellow Button por Kenney (UI Pack): https://kenney.nl/assets/ui-pack
+- Sprite Yellow Button por Kenney (UI Pack): https://kenney.nl/assets/ui-pack
