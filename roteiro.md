@@ -8,6 +8,7 @@
   - Pra Text, mostrar TMP
   - Pra Image, mostrar Sprite Editor e slicing
   - Pra RawImage, ter um Prefab com câmera e objeto 3D + RenderTexture
+  - Extras: CanvasGroup, Color Swatch
 3. Layout com âncoras
 4. Auto Layout
 5. Event handlers (e.g.: `EventTrigger`, `IPointer*Handler`, ...)
