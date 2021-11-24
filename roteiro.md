@@ -8,6 +8,7 @@
   - Pra Text, mostrar TMP
   - Pra Image, mostrar Sprite Editor e slicing
   - Pra RawImage, ter um Prefab com câmera e objeto 3D + RenderTexture
+  - Pra Button e outros Selectables, mostrar navegação
   - Extras: CanvasGroup, Color Swatch
 3. Layout com âncoras
 4. Auto Layout
@@ -16,3 +17,4 @@
   - Sprite Atlas
   - ? Sub-canvas
   - ? Animação com tweening (e.g.: DOTween)
+7. Se der tempo, implementar o design
