@@ -353,10 +353,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.0046135923
-    y: 0.008948546
-    width: 0.3271818
-    height: 0.9261745
+    x: 0.0071716583
+    y: 0.013136289
+    width: 0.32377106
+    height: 0.89162564
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -1188,6 +1188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _camera: {fileID: 270260381}
+  ReflectEnabledToCamera: 1
 --- !u!1 &2138465917
 GameObject:
   m_ObjectHideFlags: 0

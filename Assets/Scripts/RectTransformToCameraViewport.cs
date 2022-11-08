@@ -6,6 +6,8 @@ public class RectTransformToCameraViewport : UIBehaviour
 {
     [SerializeField] private Camera _camera;
 
+    public bool ReflectEnabledToCamera = true;
+
     public Camera Camera
     {
         get => _camera;
@@ -39,12 +41,20 @@ public class RectTransformToCameraViewport : UIBehaviour
     {
         base.OnEnable();
         _canvas = GetComponentInParent<Canvas>();
+        if (ReflectEnabledToCamera && Camera)
+        {
+            Camera.enabled = true;
+        }
     }
 
     protected override void OnDisable()
     {
         base.OnDisable();
         _canvas = null;
+        if (ReflectEnabledToCamera && Camera)
+        {
+            Camera.enabled = false;
+        }
     }
 
     protected override void OnRectTransformDimensionsChange()
