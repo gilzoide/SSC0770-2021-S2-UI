@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.gilzoide.camera-viewport-rect": {
+      "version": "https://github.com/gilzoide/unity-camera-viewport-rect.git#main",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "hash": "fa1dccb76c02dfa4388a691a47770e721b0da1f1"
+    },
     "com.gilzoide.safe-area-layout": {
       "version": "https://github.com/gilzoide/unity-safe-area-layout.git#1.0.1",
       "depth": 0,

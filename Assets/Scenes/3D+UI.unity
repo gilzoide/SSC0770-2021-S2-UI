@@ -207,6 +207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: '[Panel] Camera Viewport Rect'
       objectReference: {fileID: 0}
+    - target: {fileID: 1403898439460663165, guid: 2f8f967f688204cd98aa3963127bc586, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1403898439460663166, guid: 2f8f967f688204cd98aa3963127bc586, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -353,10 +357,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.0071716583
-    y: 0.013136289
-    width: 0.32377106
-    height: 0.89162564
+    x: 0.006843456
+    y: 0.014814815
+    width: 0.32420874
+    height: 0.87777776
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -1188,7 +1192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _camera: {fileID: 270260381}
-  ReflectEnabledToCamera: 1
+  ToggleCameraEnabled: 1
 --- !u!1 &2138465917
 GameObject:
   m_ObjectHideFlags: 0
@@ -1287,6 +1291,10 @@ PrefabInstance:
     - target: {fileID: 1403898439460663165, guid: 2f8f967f688204cd98aa3963127bc586, type: 3}
       propertyPath: m_Name
       value: '[Panel] World Canvas'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1403898439460663165, guid: 2f8f967f688204cd98aa3963127bc586, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1403898439460663166, guid: 2f8f967f688204cd98aa3963127bc586, type: 3}
       propertyPath: m_Pivot.x
