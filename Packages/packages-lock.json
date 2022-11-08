@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.gilzoide.safe-area-layout": {
+      "version": "https://github.com/gilzoide/unity-safe-area-layout.git#1.0.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "29a0fb6c1645719c2b0e8905303ebf51f66a65b7"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
