@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 6863877300466142328}
   - component: {fileID: 1203935017264608748}
   m_Layer: 5
-  m_Name: '[Image] Background'
+  m_Name: '[Panel] Panel'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
