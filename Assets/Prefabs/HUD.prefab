@@ -496,12 +496,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 1698296515049893750}
     m_Modifications:
     - target: {fileID: 2935541286567902121, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 2935541286567902121, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -42
+      objectReference: {fileID: 0}
+    - target: {fileID: 2935541286567902121, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2935541286567902121, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3027106041076792385, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
       propertyPath: m_Pivot.x
@@ -589,12 +597,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5201638480563897953, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
       propertyPath: m_Name
-      value: '[Button] Rocket Button'
+      value: '[Button] Cheese Button'
       objectReference: {fileID: 0}
     - target: {fileID: 8958586058933271216, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: bb4d979de2377762bafb21a128320395, type: 3}
+      objectReference: {fileID: 21300000, guid: 0c90abbd94409469385870b95b78fbc2, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1320fd18ef5cd4102a03e6f58f7fd57d, type: 3}
 --- !u!224 &1561002187335176276 stripped
