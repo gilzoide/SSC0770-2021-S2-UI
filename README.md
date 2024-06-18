@@ -1,6 +1,8 @@
 # Aula de UI
 Projeto de exemplo de UI usando Unity.
 
+Design da interface usada neste projeto está [disponível no Figma](https://www.figma.com/design/LJ30W3fWc8eZkDteBKhgml/AulaUI?node-id=0-1&t=GzMLrrUds6l2yMM7-1).
+
 
 ## Cenas
 - [Controles](Assets/Scenes/Controles.unity): todos os controles de UI
@@ -26,6 +28,7 @@ Projeto de exemplo de UI usando Unity.
 - Fonte Acme por Juan Pablo del Peral, Huerta Tipográfica: https://fonts.google.com/specimen/Acme
 - Ícones Heart, Bacon, Bread, Chesse e Rocket por EmojiOne: https://github.com/EmojiTwo/emojitwo
 - Sprite Yellow Button por Kenney (UI Pack): https://kenney.nl/assets/ui-pack
+
 
 ## Licenças
 - Texturas [FundoPopup](Assets/Sprites/gilzoide-FundoPopup.png), [BotãoCircular](Assets/Sprites/gilzoide-BotãoCircular.png) e [pixel](Assets/Sprites/gilzoide-pixel.png): [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
